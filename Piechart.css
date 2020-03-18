@@ -1,0 +1,43 @@
+      #pie {
+      width: 600px;
+    }
+    
+       
+    #pieSlice1 {
+      width: 245px;
+      height: 245px;
+      float: left;
+      background-color: red;
+      border-top-left-radius: 250px;
+    }
+    
+    #pieSlice2 {
+      width: 245px;
+      height: 245px;
+      float: left;
+      background-color: yellow;
+      border-top-right-radius: 250px;
+      margin-left: 246px;
+      margin-top: -245px;
+    }
+        
+    #pieSlice3 {
+      width: 245px;
+      height: 245px;
+      float: left;
+      background-color: blue;
+      border-bottom-left-radius: 250px;
+      margin-top:1px;
+    }
+    
+    #pieSlice4 {
+      width: 245px;
+      height: 245px;
+      float: left;
+      background-color: green;
+      border-bottom-right-radius: 250px;
+      margin-left: 245px;
+      margin-top: -245px
+    }
+    
+      
